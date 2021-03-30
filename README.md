@@ -1,7 +1,7 @@
 # keeper-app
 Keeper is a react web app which is a copy of google keep
 
-Usage:
+# Usage
 
 download the files
 ![image](https://user-images.githubusercontent.com/66972468/112876773-d1eb2780-90bd-11eb-970d-b11a67194036.png)
