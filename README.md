@@ -25,4 +25,3 @@ run npm start
 # copyright
 
 Copyright ©️ Priyanshu-Desai and PYJS123. 
-Creative commons license
