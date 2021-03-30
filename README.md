@@ -24,3 +24,4 @@ run npm start
 
 # Copyright
 Copyright © Priyanshu & PYJS123
+Protected under Apache Licence 2.0
