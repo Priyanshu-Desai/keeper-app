@@ -21,3 +21,8 @@ run npm install
 
 run npm start
 ![image](https://user-images.githubusercontent.com/66972468/112876649-abc58780-90bd-11eb-98b6-ed0ba01c29d8.png)
+
+# copyright
+
+Copyright ©️ Priyanshu-Desai and PYJS123. 
+Creative commons license
