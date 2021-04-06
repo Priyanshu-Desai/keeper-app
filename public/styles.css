@@ -7,7 +7,7 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background: #fff;
   padding: 0 16px;
 }
 
@@ -19,7 +19,7 @@ header {
 }
 
 header h1 {
-  color: #fff;
+  color: #000;
   font-family: "McLaren", cursive;
   font-weight: 200;
 }
