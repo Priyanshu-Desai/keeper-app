@@ -1,5 +1,5 @@
 # keeper-app
-![keeper-app trialling logo](public/assets/keeper-app-trialLogo.png)
+![image](https://user-images.githubusercontent.com/66972468/114570700-f4f50a00-9c6d-11eb-9a35-771c602795a8.png)
 
 Keeper is a react web app which is a copy of google keep
 
