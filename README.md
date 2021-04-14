@@ -25,7 +25,7 @@ run `npm start`
 ![image](https://user-images.githubusercontent.com/66972468/112876649-abc58780-90bd-11eb-98b6-ed0ba01c29d8.png)
 
 # Copyright
-Copyright © Priyanshu & PYJS123
+Copyright 2021 © Priyanshu & PYJS123
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
