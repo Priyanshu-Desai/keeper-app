@@ -3,7 +3,7 @@
 
 Keeper is a react web app which is a copy of google keep
 
-## Usage
+# Download and Usage
 1. download the files
 2. extract zip
 3. move to any location
